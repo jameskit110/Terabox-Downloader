@@ -1,7 +1,7 @@
 # Terabox-Downloader
 📥 TerabxDownloader.com Guide
 
-# 📥 [Terabox link Downloader](https://terabxdownloader.com/) Guide
+# 📥 [Terabox link Downloader](https://teradownloadr.com/) Guide
 
 **TerabxDownloader.com** is a free, web-based tool designed to help users download videos and files directly from Terabox links without requiring an account or software installation.
 
